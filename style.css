@@ -1,0 +1,88 @@
+body{
+    font-family: 'Josefin Sans', sans-serif;
+    background-color: #135d5c;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.wrapper{
+    background-color: #f3f3f3;
+}
+
+h1{
+    font-weight: 700;
+}
+
+img{
+    max-width: 100%;
+    position: relative;
+    right: 15px;
+    margin: auto;
+}
+
+header{
+    width: 98%;
+}
+
+.logo{
+    max-width: 160px;
+    margin: 3px 0px 3px 3px;
+    padding: 30px;
+    float: left;
+}
+
+.social_list{
+    list-style-type: none;
+    margin: 3px 2px 4px 3px;
+    float: right;
+}
+
+.social_list > li{
+    display: inline;
+    position: relative;
+    top: 60px;
+    padding: 10px;
+}
+
+.social_list > li > i{
+    font-size: 35px;
+}
+
+p{
+    font-weight: 400;
+    font-size: 20px;
+    margin: 5px;
+}
+
+.btn{
+    background-color: #303131;
+    color: #ffffff;
+    float:right;
+    text-decoration: none;
+    cursor: pointer;
+    font-weight: 800;
+    margin: 15px;
+    padding: 8px 12px;
+    border-radius: 8px;
+    letter-spacing: 1px;
+
+}
+
+hr{
+    height: 1px;
+    background-color:  #303131;
+    clear: both;
+    width: 96%;
+    margin: auto;
+}
+
+.contact{
+    text-align: center;
+    font-size: 16px;
+    color: #303131;
+}
+
+footer{
+    padding: 20px;
+}
+
